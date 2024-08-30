@@ -1,0 +1,51 @@
+{{ define "main" }}
+			{{ "<!-- Main -->" | safeHTML }}
+				<section id="main" class="container">
+					<header>
+						<h2>{{ if .Draft }}DRAFT: {{end}}{{ .Params.title }}</h2>
+						{{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+					</header>
+					<div class="box">
+						<div class="row">
+							<div class="col-6 col-12-mobilep">
+							{{ with .Params.images }}
+								<span class="image fit"><img src="{{ index . 0 | absURL }}" alt=""></span>
+							{{ end }}
+							</div>
+							<div class="col-6 col-12-mobilep">
+							{{ .Content }}
+							{{ if .Params.teacher }}
+								<p>Kursleiter:
+									{{ range $index, $key := .Params.teacher }}
+									{{ if $index }}, {{ end }}
+									{{ if gt (len $key) 0 }}
+										<a href="/preachers/{{ $key | urlize }}/">{{ $key }}</a>
+									{{ end }} {{/* if */}}
+									{{ end }} {{/* range */}}
+							{{ end }} {{/* end if teacher */}}
+							{{ if .Params.series }}
+								<p> Reihe:
+									{{ range $index, $key := .Params.series }}
+									{{ if $index }}, {{ end }}
+									{{ if gt (len $key) 0 }}
+										<a href="/series/{{ $key | urlize }}/">{{ $key }}</a>
+									{{ end }} {{/* if */}}
+									{{ end }} {{/* range */}}
+								</p>
+							{{ end }} {{/* end if series */}}
+							{{ if .Params.tags }}
+								<p>Inhalte:
+									{{ range $index, $key:= .Params.tags }}
+										{{ if $index }}, {{ end }}
+										{{ if gt (len $key) 0 }}
+							  			<a href="/tags/{{$key | urlize }}/">#{{ $key }}</a>
+											{{ end }} {{/* if gt len */}}
+										{{ end }} {{/* range */}}
+								</p>
+							{{ end }} {{/* end if tags */}}
+							{{ with .Params.date }}<p>Date: {{ . | dateFormat "January 2, 2006"}}</p>{{ end }}
+							</div>
+						</div>
+					</div>
+				</section>
+{{ end }}
