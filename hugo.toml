@@ -33,22 +33,22 @@ enableInlineShortcodes = true
   [[menu.main]]
     name = "Über Mich"
     url = "/about"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     name = "Kurse"
     url = "/courses"
-    weight = 1
+    weight = 3
 
   [[menu.main]]
     name = "Services"
     url = "/services"
-    weight = 1
+    weight = 4
 
   [[menu.main]]
     name = "Kontakt"
     url = "/contact"
-    weight = 1
+    weight = 5
 
 # Paramaters for the whole site
 [params]
