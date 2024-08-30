@@ -50,6 +50,7 @@ head {
 
 .image.fit img {
   width: auto;
+  max-height: 250px;
 }
 
 .icon.major.accent2 {
