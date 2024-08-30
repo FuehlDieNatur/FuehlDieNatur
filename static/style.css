@@ -40,13 +40,16 @@ head {
 .image.fit {
   display: flex !important;
   align-items: center;
-  align-content: center;
+  justify-content: center;
   max-height: 250px;
+}
+
+.image.fit a {
+  display: block;
 }
 
 .image.fit img {
   width: auto;
-  height: 250px;
 }
 
 .icon.major.accent2 {
