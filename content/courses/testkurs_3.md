@@ -1,7 +1,7 @@
 ---
 title: "Test Kurs 3"
 passage: "Brief description of the course content and what participants can expect to learn."
-date: 2024-08-31
+date: 2024-08-29
 teacher: ["Daniela"]
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/apfel_bluete.jpg"]
 series: ["Test"]
