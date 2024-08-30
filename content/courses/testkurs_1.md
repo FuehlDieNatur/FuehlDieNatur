@@ -2,7 +2,7 @@
 title: "Test Kurs 1"
 summary: "Brief description of the course 1 content and what participants can expect to learn."
 date: 2024-05-03
-images: ["/img/kaefer.jpg"]
+images: ["/FuehlDieNatur/img/kaefer.jpg"]
 teacher: ["Daniela"]
 series: ["Test"]
 tags: ["Käfer", "Natur"]
