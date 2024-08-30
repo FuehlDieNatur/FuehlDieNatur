@@ -1,8 +1,8 @@
 baseURL = "fuehldienatur.github.io"
 languageCode = "en-us"
 title = "Fuehl die Natur"
-theme = "alpha-church"
-themesDir = "themes"
+theme = "themes"
+themesDir = "."
 
 rssLimit = 5
 paginate = 4
