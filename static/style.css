@@ -14,7 +14,7 @@ head {
 }
 
 #banner {
-  background-size: 101vw, auto, cover !important;
+  background-size: auto, 101vw !important;
 }
 
 #header {
