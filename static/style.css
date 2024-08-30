@@ -29,6 +29,10 @@ head {
   height: 5vh;
 }
 
+.copyright {
+  color: #FFF !important;
+}
+
 .image.fit {
   max-height: 200px;
 }
