@@ -23,6 +23,10 @@ footer {
   height: 5vh;
 }
 
+.image.fit {
+  max-height: 200px;
+}
+
 .icon.major.accent2 {
   background: #0000FF;
 }
