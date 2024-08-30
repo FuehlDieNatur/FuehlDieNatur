@@ -13,6 +13,10 @@ head {
   height: 10vh;
 }
 
+#banner {
+  background-size: 101vw, cover;
+}
+
 #header {
   background-color: #a4c0a7 !important;
   color: #333 !important;
