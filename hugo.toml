@@ -52,7 +52,7 @@ enableInlineShortcodes = true
 
 # Paramaters for the whole site
 [params]
-  title = "Willkommen bei Fühl die Natur!"
+  title = "Fühl die Natur"
   subtitle = ""
   [params.author]
     name = "Daniela"
