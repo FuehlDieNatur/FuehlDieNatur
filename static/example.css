@@ -1,3 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #E5E6D9;
+  height: 98vh;
+  overflow-y: hidden;
+}
+
 header {
   background-color: #a4c0a7;
   color: #333;
