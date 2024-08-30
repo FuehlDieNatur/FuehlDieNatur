@@ -1,23 +1,22 @@
 body {
-  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #E5E6D9;
+  background-color: #E5E6D9 !important;
   height: 98vh;
   overflow-y: hidden;
 }
 
-head {
-  background-color: #a4c0a7;
-  color: #333;
+#header {
+  background-color: #a4c0a7 !important;
+  color: #333 !important;
   padding: 1em 0;
   text-align: center;
   height: 10vh;
 }
 
-footer {
-  background-color: #9b884e;
-  color: #FFF;
+#footer {
+  background-color: #9b884e !important;
+  color: #FFF !important;
   text-align: center;
   padding: 1em 0;
   height: 5vh;
@@ -29,4 +28,35 @@ footer {
 
 .icon.major.accent2 {
   background: #0000FF;
+}
+
+/* Container to center the image and handle text placement */
+.image-container {
+  display: flex;
+  justify-content: center; /* Centers the image horizontally */
+  align-items: center; /* Centers the image vertically if container has a fixed height */
+  margin: 20px 0; /* Adjusts space above and below the image */
+}
+
+/* Image styling for round mask and scaling */
+.round-image {
+  width: 100px; /* Adjust this size as needed */
+  height: 100px; /* Adjust this size as needed */
+  border-radius: 50%; /* Creates a circular mask */
+  object-fit: cover; /* Ensures the image covers the circle without distortion */
+}
+
+/* Media query for responsive scaling */
+@media screen and (min-width: 600px) {
+  .round-image {
+    width: 150px; /* Larger size for bigger screens */
+    height: 150px; /* Larger size for bigger screens */
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .round-image {
+    width: 200px; /* Even larger size for very large screens */
+    height: 200px; /* Even larger size for very large screens */
+  }
 }
