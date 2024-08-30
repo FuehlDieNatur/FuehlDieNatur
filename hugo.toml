@@ -58,7 +58,6 @@ enableInlineShortcodes = true
     name = "Daniela"
     email = "test@example.com"
   instant_page = true
-
   customCSS = ["style.css"]
 
   [params.favicon]
