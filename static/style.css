@@ -38,7 +38,14 @@ head {
 }
 
 .image.fit {
-  max-height: 200px;
+  display: flex !important;
+  align-items: center;
+  align-content: center;
+  max-height: 250px;
+}
+
+.image.fit img {
+  width: auto;
 }
 
 .icon.major.accent2 {
