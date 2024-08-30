@@ -59,7 +59,7 @@ enableInlineShortcodes = true
     email = "test@example.com"
   instant_page = true
 
-  customCSS = ["example.css"]
+  customCSS = ["style.css"]
 
   [params.favicon]
     #sml = "/example16.png"
