@@ -3,7 +3,23 @@ body {
   padding: 0;
   background-color: #E5E6D9 !important;
   height: 98vh;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
+}
+
+head {
+  background-color: #a4c0a7 !important;
+  color: #333 !important;
+  padding: 1em 0;
+  text-align: center;
+  height: 10vh;
+}
+
+header {
+  background-color: #a4c0a7 !important;
+  color: #333 !important;
+  padding: 1em 0;
+  text-align: center;
+  height: 10vh;
 }
 
 #header {
