@@ -4,6 +4,7 @@
 		<title>{{ if .Title }}{{ .Title }} | {{ end }} {{ site.Params.title }}</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="https://fuehldienatur.github.io/FuehlDieNatur/style.css">
 		{{ with site.Params.subtitle }}<meta name="description" content="{{ . }}">{{ end }}
 		{{ with site.Params.Author.name }}<meta name="author" content="{{ . }}">{{ end }}
 		<meta name="keywords" content="
@@ -36,6 +37,5 @@
 		<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="screen" crossorigin="anonymous" />
 		{{- range site.Params.customCSS -}}
     	<link rel="stylesheet" href="{{ . | absURL }}">
-		<link rel="stylesheet" href="https://fuehldienatur.github.io/FuehlDieNatur/style.css">
   	{{- end -}}
 	</head>
