@@ -3,7 +3,15 @@ title: "Qualifikationen"
 draft: false
 ---
 ## Qualifikationen
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+Mein Lebensweg:
+🌸1978 in Lörrach geboren 
+🌸1997 Ausbildung zu chemisch-technischen Assistentin (Stuttgart)
+🌸2003 & 2006 Geburt meiner beiden wundervollen Kinder
+🌸2021 Ausbildung zur Phytopraktikerin mit Abschluss (Freiburger Heilpflanzenschule)
+	es folgten Seminare in Gemmotherapie (Knospenheilmittel) und Hochsensibilität
+🌸2023 Weiterbildung Phytotherapie (4-jährig an der Freiburger Heilpflanzenschule)
+🌸2024 Weiterbildung zur Wildnispädagogin (1-jährig Kojote Akademie Buchenbach)
+
 <ul>
     <li>Consetetur sadipscing elitr, sed diam</li>
     <li>Sadipscing diam</li>
