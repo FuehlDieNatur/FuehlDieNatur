@@ -1,5 +1,5 @@
 ---
-title: "Test Kurs 1"
+title: "Frühlinghspflanzen"
 summary: "Brief description of the course 1 content and what participants can expect to learn."
 date: 2024-05-03
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/kaefer.jpg"]
