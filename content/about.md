@@ -12,5 +12,6 @@ So erlebte ich es selbst auch. Meinen beiden Kindern und mir den Raum und die Ze
 Als meine beiden Kinder langsam erwachsen wurden, wollte ich meinen Platz in der Natur finden, stolperte über die Freiburger Heilpflanzenschule und wusste, da muss ich unbedingt hin. Die Ausbildung zur Phytopraktikerin zog mich magisch an.
 Eine sehr intensive und inspirierende Welt tat sich für mich auf, meine Affinität zu allem Grünen ergab einen Sinn. Die Pflanzen meiner Kindheit, ich lernte sie mit neuen Augen zu sehen. Überall sah ich wertvolle Heilpflanzen. Sammeln, trocknen, Tinkturen und Ölauszüge, heilen, meine Welt.
 Diese Faszination möchte ich gerne mit euch teilen.
+Aktuell bin ich in der Weiterbildung zu Wildnipädagogik.
 
  
