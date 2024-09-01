@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Qualifikationen"
 draft: false
 ---
 ## Qualifikationen
