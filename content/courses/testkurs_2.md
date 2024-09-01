@@ -5,9 +5,10 @@ date: 2024-08-30
 teacher: ["Daniela"]
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/apfel_bluete.jpg"]
 series: ["Test"]
-tags: ["Apfel","Blüte", "Natur"]
+tags: ["Oxymel","Essig", "Honig"]
 draft: false
 ---
-## Die Magie der Apfelblüte: Ein Frühlingsphänomen
+## Oxymel - Herstellung des traditonellen Sauerhonigs für zu Hause
 
-Erleben Sie die Schönheit und Bedeutung der Apfelblüte! Im Frühling verwandeln sich Apfelbäume in ein Meer aus zarten, weißen und rosa Blüten. Diese Zeit des Jahres ist nicht nur ein Fest für die Sinne, sondern auch ein entscheidender Moment im Lebenszyklus des Apfelbaums. In unserem Kurs erfahren Sie alles über die verschiedenen Phasen der Apfelblüte, die Rolle von Bestäubern wie Bienen und die Bedeutung der Blüte für die spätere Fruchtbildung. Lernen Sie, wie Sie Ihren eigenen Apfelbaum optimal pflegen können, um eine reiche Ernte zu sichern. Lassen Sie sich von der faszinierenden Welt der Apfelblüten begeistern und entdecken Sie, wie wichtig diese Phase für die gesamte Apfelproduktion ist!
+Lernt mit mir zusammen die Herstellung und die Vorzüge von Kräuter- Oxymel kennen. Im Oxymel stecken die Heilkräfte aus Honig, Apfelessig und Kräutern. Oxymel stärkt unter anderem das Immunsystem und bereichert auch wunderbar kulinarisch Eure Küche.
+Mitzubringen sind 1-3 leere Marmeladengläser, Schneidebrett und Messer, gerne auch wer mag eigene Kräuter aus dem heimischen Garten oder selbst gesammelte, die wir gemeinsam bestimmen können.
