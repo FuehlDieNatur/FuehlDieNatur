@@ -1,10 +1,10 @@
 ---
-title: "Test Kurs 2"
+title: "Oxymel"
 passage: "Brief description of the course content and what participants can expect to learn."
 date: 2024-08-30
 teacher: ["Daniela"]
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/apfel_bluete.jpg"]
-series: ["Test"]
+series: ["2025"]
 tags: ["Oxymel","Essig", "Honig"]
 draft: false
 ---
