@@ -1,9 +1,9 @@
 ---
-title: "Qualifikationen"
+title: "Mein Lebensweg"
 draft: false
 ---
 ## Qualifikationen
-"Mein Lebensweg:"
+
 
 <ul>
     <li>1978 in Lörrach geboren</li>
