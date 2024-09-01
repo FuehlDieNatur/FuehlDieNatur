@@ -4,7 +4,7 @@ summary: "Brief description of the course 1 content and what participants can ex
 date: 2024-05-03
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/kaefer.jpg"]
 teacher: ["Daniela"]
-series: ["Test"]
+series: ["2025"]
 tags: ["Frühling", "Pflanze"]
 draft: false
 ---
