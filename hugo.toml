@@ -41,14 +41,19 @@ enableInlineShortcodes = true
     weight = 3
 
   [[menu.main]]
+    name = "Phytotherapie"
+    url = "/phytotherapie"
+    weight = 4
+
+  [[menu.main]]
     name = "Services"
     url = "/services"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Kontakt"
     url = "/contact"
-    weight = 5
+    weight = 6
 
 # Paramaters for the whole site
 [params]
