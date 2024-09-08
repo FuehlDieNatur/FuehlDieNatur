@@ -4,8 +4,8 @@
 #Details for the box below the banner
 [services]
   title = "Willkommen"
-  text = "Wie geht es Dir nach ein paar Stunden im Wald, nach einem Spaziergang durch Wiesen und Felder? Vielleicht wie mir, geerdet, entspannt, ausgeglichen. Die Natur mein Wohlfühlort für Körper, Geist und Seele.
-  Die sanfte Berührung des Windes auf der Haut, das leise Rascheln der Blätter, die Harmonie der Vogelstimmen, der entspannende Duft der Blüten, das beruhigende Plätschern eines Baches, die heilenden Kräfte unserer heimischen Pflanzen. Wenn wir unsere Sinne öffnen werden wir sie wahrnehmen, sie werden uns helfen heil zu werden und sein. Gerne nehme ich Dich mit auf diese Reise, unsere Naturverbindung wieder zu entdecken, das Vertrauen darin zu finden und teile mit Dir mein Wissen über unsere heilkräftigen heimischen Heilfplanzen. „Der Mensch kann zwar helfen, die Natur aber alleine kann heilen.“ Alfred Vogel (1902-1996)"
+  text = "Wie schön, dass ihr meine Website gefunden habt. Seid ihr bereit für Eure Reise zurück zur Naturverbindung, sie wieder fühlen und spüren können, wie es für vergangene Generationen selbstverständlich war? Wir alle tragen es noch in uns und können sie wieder entdecken, egal welchen Alters, für jeden gibt es SEINE Passion, davon bin ich überzeugt. 
+Wer schon immer mal gerne den Wunsch hatte, etwas mehr über unsere heimische Kräuterwelt zu erfahren ist bei mir genau richtig. Die heimische Welt unserer Heilpflanzen ist eine meiner Passionen, in die ihr mit mir eintauchen und gemeinsam erleben könnt.Ich freue mich auf Euch  „Der Mensch kann zwar helfen, die Natur aber alleine kann heilen.“ Alfred Vogel (1902-1996)"
 [feature_icons]
   #These feature icons look best if there's an even number of them.
   enable = false
