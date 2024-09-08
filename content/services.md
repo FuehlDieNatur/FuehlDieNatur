@@ -2,7 +2,7 @@
 title: "Mein Lebensweg"
 draft: false
 ---
-## Qualifikationen
+## Services & Qualifikationen
 
 
 <ul>
