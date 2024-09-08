@@ -1,7 +1,7 @@
 ---
 title: "Oxymel"
 passage: "Brief description of the course content and what participants can expect to learn."
-date: 2024-08-30
+date: 2025-05-17
 teacher: ["Daniela"]
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/apfel_bluete.jpg"]
 series: ["2025"]
