@@ -13,7 +13,6 @@ draft: false
      <li>Angebote zu Themen wie Bitterstoffe, eigene Hausapotheke, eigene Tee-Herstellung, pflanzliche Antibiotika etc.</li>
      <li>Kindegruppen sind jederzeit Herzlich Willkommen. Gemeinsames Kennenlernen von Erste Hilfe Pflanzen, Herstellen von Kräutersalzen, Feuerküche mit Wildpflanzen, Herstellen einfacher Salben können Themen sein.</li>
     <li>Gerne auch bei mir Anfragen, wenn Euch ein Etwas auf dem Herzen liegt. Ziel aller Angebote ist es, das Anleiten für das eigene Tun zu Hause, Skripte gibt es jeweils passend zum Thema. </li>
-    
     <li>Qualifiationen</li>
     <li>1997 Ausbildung zu chemisch-technischen Assistentin (Stuttgart)</li>
     <li>2003 & 2006 Geburt meiner beiden wundervollen Kinder</li>
