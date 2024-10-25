@@ -6,7 +6,7 @@ body {
 }
 @font-face {
   font-family: Handwriting;
-  src: url(Bradley\ Hand\ Bold.ttf);
+  src: url('Bradley Hand Bold.ttf')  format('truetype');
 }
 
 h3 {
