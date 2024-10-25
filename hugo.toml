@@ -46,14 +46,19 @@ enableInlineShortcodes = true
     weight = 4
 
   [[menu.main]]
+    name = "Wildniss Pädagogik"
+    url = "/wildness"
+    weight = 5
+
+  [[menu.main]]
     name = "Services"
     url = "/services"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "Kontakt"
     url = "/contact"
-    weight = 6
+    weight = 7
 
 # Paramaters for the whole site
 [params]
