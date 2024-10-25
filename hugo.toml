@@ -76,7 +76,7 @@ enableInlineShortcodes = true
     #lge = "example96.png"
 
   [params.banner]
-    image = "img/apfel_baum.jpg"
+    image = "img/feldberg1.jpg"
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
