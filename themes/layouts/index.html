@@ -28,6 +28,7 @@
 						<section class="box special features">
 							<div class="features-row">
 								{{ range $index, $key := $tiles}}
+								<h3>{{ $key.title }}</h3>
 									<section>
 										{{ if $key.url }}<a href="{{ $key.url | absURL }}"><div>{{ end }}
 											<span class="icon major {{ $key.icon_pack }} {{ $key.icon }} accent{{- $key.accent -}}"></span>
@@ -48,12 +49,13 @@
 						{{ $tiles := .Params.Feature_images.tile }}
 						{{ $len := (len $tiles) }}
 						<a name="feature-images"></a>
+
 						<div class="row">
 							{{ range $index, $key := $tiles }}
 								<div class="col-6 col-12-narrower">
 									<section class="box special">
 										<span class="image featured"><img src="{{ $key.image | absURL}}" alt="" /></span>
-										<h3>{{ $key.title }}</h3>
+										
 										<p>{{ $key.text | markdownify }}</p>
 										{{ if $key.button_text }}
 											<ul class="actions special">
