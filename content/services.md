@@ -15,7 +15,7 @@ draft: false
 Gerne auch bei mir Anfragen, wenn Euch ein Etwas auf dem Herzen liegt. Ziel aller Angebote ist es, das Anleiten für das eigene Tun zu Hause, Skripte gibt es jeweils passend zum Thema.
 
 Qualifikationen:
-1997 Ausbildung zu chemisch-technischen Assistentin (Stuttgart)</li>
-2021 & 2022 Ausbildung zur Phytopraktikerin mit Abschluss (Freiburger Heilpflanzenschule), es folgten Seminare in Gemmotherapie (Knospenheilmittel) und Hochsensibilität</li>
-2023 - 2026 Weiterbildung Phytotherapie Fachfortbildung (Themen u.a. Blütenessenzen, Gemmotherapie für Kinder, TCM mit europäischen Heilpflanzen, Vertiefung der Gebiete Frauennaturheilkunde,ZNS, Herz-Kreislauf, Gelenke und Haut)</li>
-2024 - 2025 Weiterbildung zur Wildnispädagogin (1-jährig Kojote Akademie Buchenbach)</li>
+1997 Ausbildung zu chemisch-technischen Assistentin (Stuttgart)
+2021 & 2022 Ausbildung zur Phytopraktikerin mit Abschluss (Freiburger Heilpflanzenschule), es folgten Seminare in Gemmotherapie (Knospenheilmittel) und Hochsensibilität
+2023 - 2026 Weiterbildung Phytotherapie Fachfortbildung (Themen u.a. Blütenessenzen, Gemmotherapie für Kinder, TCM mit europäischen Heilpflanzen, Vertiefung der Gebiete Frauennaturheilkunde,ZNS, Herz-Kreislauf, Gelenke und Haut)
+2024 - 2025 Weiterbildung zur Wildnispädagogin (1-jährig Kojote Akademie Buchenbach)
