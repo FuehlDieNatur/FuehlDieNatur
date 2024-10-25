@@ -20,7 +20,7 @@
 						{{ partial "map" . }}
 					</section>
 					{{ end }}
-
+					<h3>Herzlich Wilkommen<br>&nbsp;&nbsp;&nbsp;&nbsp; bei Fühl Die Natur!</h3>
 					{{ if .Params.Feature_icons.enable }}
 						{{ $tiles := .Params.Feature_icons.tile }}
 						{{ $len := (len $tiles) }}
@@ -28,7 +28,6 @@
 						<section class="box special features">
 							<div class="features-row">
 								{{ range $index, $key := $tiles}}
-								<h3>{{ $key.title }}</h3>
 									<section>
 										{{ if $key.url }}<a href="{{ $key.url | absURL }}"><div>{{ end }}
 											<span class="icon major {{ $key.icon_pack }} {{ $key.icon }} accent{{- $key.accent -}}"></span>

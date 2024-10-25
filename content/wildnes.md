@@ -1,5 +1,5 @@
 ---
-title: "Phytotherapie - Die moderne Heilpflanzenkunde"
+title: "Wildnispädagogik"
 draft: false
 ---
 # Was ist Wildnispädagogik?

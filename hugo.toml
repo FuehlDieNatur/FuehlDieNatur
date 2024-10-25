@@ -46,8 +46,8 @@ enableInlineShortcodes = true
     weight = 4
 
   [[menu.main]]
-    name = "Wildniss Pädagogik"
-    url = "/wildness"
+    name = "Wildnispädagogik"
+    url = "/wildnes"
     weight = 5
 
   [[menu.main]]
@@ -101,6 +101,6 @@ enableInlineShortcodes = true
       copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
                    "Design: [HTML5 UP](//html5up.net/alpha)",
                    "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)",
-                   "Adjusted for Fühl die Natur - Daniela 2024"
+                   "Adjusted for Fühl die Natur - Daniela Huber 2024"
                   ]
 

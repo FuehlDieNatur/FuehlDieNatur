@@ -4,7 +4,14 @@ body {
   background-color: #E5E6D9 !important;
   /* overflow-y: hidden; */
 }
+@font-face {
+  font-family: Handwriting;
+  src: url(Bradley\ Hand\ Bold.ttf);
+}
 
+h3 {
+  font-family: Handwriting;
+}
 head {
   background-color: #a4c0a7 !important;
   color: #333 !important;
