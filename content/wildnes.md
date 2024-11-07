@@ -1,8 +1,8 @@
 ---
-title: "Wildnispädagogik"
+title: "Wildnispädagogik - Was ist das?"
 draft: false
 ---
-# Was ist Wildnispädagogik?
+#
 Wildnispädagogik bringt Menschen durch praktisches Erleben und Erfahren in die Verbindung zur Natur.
 Ganzheitlich wird mit dem Wissen über altes Handwerk, Tier- und Pflanzenkunde, Fährten- und Verhaltenlesen, sowie Survival gelehrt.
 Über die Arbeit in Gruppen wird die Solidarität, die Wertschätzung und das Gemeinschaftsgefühl gefördert.
