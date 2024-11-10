@@ -1,7 +1,14 @@
 ---
 title: "Phytotherapie - Die moderne Heilpflanzenkunde"
 draft: false
----
+---## Echte Kamille – Marticaria recutitia&#x20;
+
+Die mütterliche Heilerin.&#x20;
+
+Sie hat eine beruhigende Wirkung auf Körper, Geist & Seele.
+
+Ihren himmlisch betörenden Duft durfte ich in diesem Jahr auf einem Kamillenfeld erleben, es war ein unbeschreiblich sanfter und wohlwollender Duft inmitten tausender Kamillenblüten.
+
 <div style="display:flex; flex-direction: column; align-items: center;">
     <img id="Col_1" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Phyto_Kamille.jpg" alt="Echte Kamille" style="width: 40%">
     <p>Phytotherapie ist ein recht neuer Begriff im Bereich der Heilpflanzenkunde. Das Wort „Phyto“ entstammt der griechischen Sprache und bedeutet Pflanze. Übersetzt ins Deutsche steht Phytotherapie für Pflanzentherapie oder Therapie mit Pflanzen. Gelehrt wird der Einsatz von Heilpflanzen zur Heilung, Linderung und Vorbeugung von Krankheiten. 
