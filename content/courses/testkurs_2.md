@@ -8,7 +8,7 @@ series: ["2025"]
 tags: ["Oxymel","Essig", "Honig"]
 draft: false
 ---
-## Oxymel - Herstellung des traditonellen Sauerhonigs für zu Hause
+## Oxymel - Herstellung des traditonellen Sauerhonigs für zu Hause 17.05.2025
 
 Lernt mit mir zusammen die Herstellung und die Vorzüge von Kräuter- Oxymel kennen. Im Oxymel stecken die Heilkräfte aus Honig, Apfelessig und Kräutern. Oxymel stärkt unter anderem das Immunsystem und bereichert auch wunderbar kulinarisch Eure Küche.
-Mitzubringen sind 1-3 leere Marmeladengläser, Schneidebrett und Messer, gerne auch wer mag eigene Kräuter aus dem heimischen Garten oder selbst gesammelte, die wir gemeinsam bestimmen können. Veranstaltungsort: Hügel mehr Garten GmbH, Rümmingen
+Mitzubringen sind 1-3 leere Marmeladengläser, Schneidebrett und Messer, gerne auch wer mag eigene Kräuter aus dem heimischen Garten oder selbst gesammelte, die wir gemeinsam bestimmen können. Veranstaltungsort: Hügel mehr Garten GmbH, Rümmingen Anmeldung: Gartencente Hügel GmbH Tel +49 (0)7621 140 299 oder über mich
