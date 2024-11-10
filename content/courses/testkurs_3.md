@@ -8,7 +8,7 @@ series: ["Test"]
 tags: ["Apfel","Blüte", "Natur"]
 draft: false
 ---
-# **Heilpflanzen für die Erkältungszeit**&#x20;
+# **Wichtige Heilpflanzen für die Erkältungszeit**&#x20;
 
 Termin:&#x20;
 
