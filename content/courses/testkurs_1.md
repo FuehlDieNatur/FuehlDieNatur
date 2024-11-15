@@ -7,6 +7,7 @@ teacher: ["Daniela"]
 series: ["2025"]
 tags: ["Frühling", "Pflanze"]
 draft: false
+Type: "kurs"
 ---
 ## Unkraut oder Heilpflanze? Geführter Spaziergang am Adelberg D-Rheinfelden 10.05.2025 14-15.30 Uhr
 
