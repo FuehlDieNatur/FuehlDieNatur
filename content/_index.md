@@ -3,7 +3,7 @@
 
 #Details for the box below the banner
 [services]
-title = "„Der Mensch kann zwar helfen,<br>aber die Natur alleine kann heilen“ - Alfred Vogel (1902-1966)"
+title = </h2><h2>„Der Mensch kann zwar helfen,</h2><br><h2>aber die Natur alleine kann heilen“ - Alfred Vogel (1902-1966)</h2><h2>"
 
 text = "Dieser Satz ist die Grundlage für mein Arbeiten. Die Natur wieder so fühlen, spüren, einsetzen wissen, wie es für vergangene Generationen selbstverständlich war. Ich bin Daniela und lade Euch ein zu Eurer Reise zurück zur Naturverbindung! Wir alle tragen es noch in uns und können sie wieder entdecken, egal welchen Alters, für jeden gibt es SEINE Passion, davon bin ich überzeugt. Wenn Ihr schon immer mal den Wunsch hattet, etwas mehr über unsere heimische Kräuterwelt zu erfahren, seid Ihr bei mir genau richtig. Die heimische Welt unserer Heilpflanzen ist eine meiner Leidenschaften, in die Ihr mit mir eintauchen und gemeinsam erleben könnt. Ich freue mich auf Euch!"
 
