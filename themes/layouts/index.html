@@ -73,7 +73,7 @@
 					<header>
 						<h2>{{ .Title | title }}</h2>
 					</header>
-					{{ range first 1 ( where .Site.Pages.ByDate "Type" "courses" ) }}
+					{{ partial "latest_course" . }}
 				</section>
 
 			{{ if .Params.CTA.enable }}
