@@ -1,12 +1,13 @@
 ---
 title: "Phytotherapie - Die moderne Heilpflanzenkunde"
 draft: false
----## Echte Kamille – Marticaria recutitia&#x20;
+---
+## Echte Kamille – Marticaria recutitia
 
-Die mütterliche Heilerin.&#x20;
-
+Die mütterliche Heilerin.
+<br>
 Sie hat eine beruhigende Wirkung auf Körper, Geist & Seele.
-
+<br>
 Ihren himmlisch betörenden Duft durfte ich in diesem Jahr auf einem Kamillenfeld erleben, es war ein unbeschreiblich sanfter und wohlwollender Duft inmitten tausender Kamillenblüten.
 
 <div style="display:flex; flex-direction: column; align-items: center;">
