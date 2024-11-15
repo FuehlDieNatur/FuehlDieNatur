@@ -10,10 +10,11 @@
 			{{ "<!-- Main -->" | safeHTML }}
 				<section id="main" class="container">
 
-					{{ if .Params.Services.title }}
+					{{ if .Params.Services.title_line1 }}
 					<section class="box special">
 						<header class="major">
-							<h2>{{ .Params.Services.title }}</h2><a name="services"></a>
+							<h2>{{ .Params.Services.title_line1 }}</h2>
+							<h2>{{ .Params.Services.title_line2 }}</h2><a name="services"></a>
 							<p>{{ .Params.Services.text | markdownify }}</p>
 						</header>
 						{{ partial "map" . }}
