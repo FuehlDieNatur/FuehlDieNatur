@@ -70,7 +70,10 @@
 							{{ end }} {{/* end range $tiles*/}}
 					</div>
 					{{ end }} {{/* end if Feature_images*/}}
-
+					<header>
+						<h2>{{ .Title | title }}</h2>
+					</header>
+					{{ partial "listbody" . }}
 				</section>
 
 			{{ if .Params.CTA.enable }}

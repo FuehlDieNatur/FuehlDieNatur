@@ -10,7 +10,7 @@ title_line3 = "- Alfred Vogel (1902-1966)"
 text = "Dieser Satz ist die Grundlage für mein Arbeiten. Die Natur wieder so fühlen, spüren, einsetzen wissen, wie es für vergangene Generationen selbstverständlich war. Ich bin Daniela und lade Euch ein zu Eurer Reise zurück zur Naturverbindung! Wir alle tragen es noch in uns und können sie wieder entdecken, egal welchen Alters, für jeden gibt es SEINE Passion, davon bin ich überzeugt. Wenn Ihr schon immer mal den Wunsch hattet, etwas mehr über unsere heimische Kräuterwelt zu erfahren, seid Ihr bei mir genau richtig. Die heimische Welt unserer Heilpflanzen ist eine meiner Leidenschaften, in die Ihr mit mir eintauchen und gemeinsam erleben könnt. Ich freue mich auf Euch!"
 
 
-{{ range ( where .Site.RegularPages "Type" "kurs" | first 1 ) }}
+{{ range where site.RegularPages.ByDate "Type" "courses" }}
   <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 {{end}}
 
