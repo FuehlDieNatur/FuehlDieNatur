@@ -72,7 +72,7 @@
 					{{ end }} {{/* end if Feature_images*/}}
 					{{/* Filter posts with the "Kurs" tag and get the latest */}}
 					{{ $courses := where .Site.RegularPages "Params.tags" "in" (slice "Kurs") }}
-					{{ $latestCourse := first 1 (sort $courses "Date" "desc") }}
+					{{ $latestCourse := first 1 (sort $courses "date") }}
 
 					{{/* Display the newest course post */}}
 					{{ range $latestCourse }}
