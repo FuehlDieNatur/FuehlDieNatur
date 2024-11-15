@@ -2,7 +2,7 @@
   {{ $pages := .Paginator.Pages }}
   {{ $len := (len $pages) }}
   {{ range $index, $key := $pages }}
-    {{ if .Params.Type "courses" }}
+    {{ if .Params.type "courses" }}
         {{ if .Params.images }}
         <div class="row no-collapse 50% uniform">
             <div class="col-6 col-12-mobilep">

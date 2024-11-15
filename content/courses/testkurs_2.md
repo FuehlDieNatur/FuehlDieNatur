@@ -5,9 +5,8 @@ date: 2025-05-17
 teacher: ["Daniela"]
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/apfel_bluete.jpg"]
 series: ["2025"]
-tags: ["Oxymel","Essig", "Honig"]
+tags: ["Oxymel","Essig", "Honig", "Kurs"]
 draft: false
-Type: "courses"
 ---
 ## Oxymel - Herstellung des traditonellen Sauerhonigs für zu Hause
 

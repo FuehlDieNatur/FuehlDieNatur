@@ -70,10 +70,18 @@
 							{{ end }} {{/* end range $tiles*/}}
 					</div>
 					{{ end }} {{/* end if Feature_images*/}}
-					<header>
-						<h2>{{ .Title | title }}</h2>
-					</header>
-					{{ partial "latest_course" . }}
+					{{/* Filter posts with the "Kurs" tag and get the latest */}}
+					{{ $courses := where .Site.RegularPages "Params.tags" "in" (slice "Kurs") }}
+					{{ $latestCourse := first 1 (sort $courses "Date" "desc") }}
+
+					{{/* Display the newest course post */}}
+					{{ range $latestCourse }}
+					<article>
+						<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+						<p>{{ .Summary }}</p>
+						<p><small>Published on {{ .Date.Format "January 2, 2006" }}</small></p>
+					</article>
+					{{ end }}
 				</section>
 
 			{{ if .Params.CTA.enable }}

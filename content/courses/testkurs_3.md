@@ -5,9 +5,8 @@ date: 2024-08-29
 teacher: ["Daniela"]
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/apfel_bluete.jpg"]
 series: ["Test"]
-tags: ["Apfel","Blüte", "Natur"]
+tags: ["Apfel","Blüte", "Natur", "Kurs"]
 draft: false
-Type: "courses"
 ---
 
 #Wichtige Heilpflanzen für die Erkältungszeit
