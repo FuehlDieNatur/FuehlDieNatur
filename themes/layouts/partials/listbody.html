@@ -1,5 +1,7 @@
 <div class="box">
+  <h1>{{ len .Pages }}</h1>
   {{ $allPages := .Paginator.Pages }}
+  <h1>{{ len $allPages }}</h1>
   {{ $sortedPages := $allPages.ByDate.Reverse }} {{/* Sort by date descending (newest first) */}}
   {{ $len := len $sortedPages }}
   <h1>{{$len}}</h1>
