@@ -72,7 +72,7 @@
 					{{ end }}
 					{{/* Display the newest course post */}}
 					{{ $upcoming := where .Site.RegularPages "Section" "courses" }}
-					{{ $upcoming = where $upcoming "Date" "ge" now }}
+					{{ $upcoming = $upcoming.ByDate }}
 					{{ if gt (len $upcoming) 0 }}
 					{{ with index $upcoming 0 }}
 					<div class="next-course">
