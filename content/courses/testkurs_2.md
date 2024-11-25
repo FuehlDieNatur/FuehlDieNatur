@@ -4,7 +4,6 @@ passage: "Lernt mit mir zusammen die Herstellung und die Vorzüge von Kräuter- 
 date: 2025-05-17
 teacher: ["Daniela"]
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/apfel_bluete.jpg"]
-series: ["2025"]
 tags: ["Oxymel","Essig", "Honig", "Kurs"]
 draft: false
 ---

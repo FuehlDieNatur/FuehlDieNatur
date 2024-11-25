@@ -2,6 +2,7 @@
   {{ $allPages := .Paginator.Pages }}
   {{ $sortedPages := $allPages.ByDate.Reverse }} {{/* Sort by date descending (newest first) */}}
   {{ $len := len $sortedPages }}
+  <h1>{{$len}}</h1>
   {{ range $index, $page := $sortedPages }}
     {{ if .Params.images }}
       <div class="row no-collapse 50% uniform">

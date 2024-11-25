@@ -1,15 +1,14 @@
 ---
-title: "Wichtige Heilpflanzen für die Erkältungszeit"
+title: "Wichtige-Heilpflanzen-für-die-Erkältungszeit"
 passage: "Gemeinsam werden wir wichtige heimische Heilpflanzen für die Erkältungszeit kennenlernen. Ziel ist es, diese Pflanzen zu erkennen, selbst sammeln zu können und Zubereitungen für zu Hause kennenzulernen. Jeder kann vor Ort ein Bronchialbalsam, einen Thymian- Spitzwegerich Honig und ein Inhaliersalz herstellen und mit nach Hause nehmen."
 date: 2024-11-29
 teacher: ["Daniela"]
 images: ["https://fuehldienatur.github.io/FuehlDieNatur/img/Phyto_Horizontal.jpg"]
-series: ["Test"]
-tags: ["Apfel","Blüte", "Natur", "Kurs"]
+tags: ["Winter","Heilpflanzen", "Kurs"]
 draft: false
 ---
 
-# Wichtige Heilpflanzen für die Erkältungszeit
+## Wichtige Heilpflanzen für die Erkältungszeit
 
 Termin:
 <br>
