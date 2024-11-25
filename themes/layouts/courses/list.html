@@ -4,17 +4,6 @@
 			<header>
 				<h2>{{ .Title | title }}</h2>
 			</header>
-			{{ $courses := where .Site.RegularPages "Section" "courses" }}
-			{{ $sortedCourses := $courses.ByDate.Reverse }}
-
-			{{ range $sortedCourses }}
-			<div class="course-item">
-				<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-				<time>{{ .Date.Format "January 2, 2006" }}</time>
-				{{ with .Params.description }}
-				<p>{{ . }}</p>
-				{{ end }}
-			</div>
-			{{ end }}
+			{{ partial "listbody" . }}
 	</section>
 {{ end }}
