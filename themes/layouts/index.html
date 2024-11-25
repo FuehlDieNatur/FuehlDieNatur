@@ -69,18 +69,23 @@
 									{{ end }}
 							{{ end }} {{/* end range $tiles*/}}
 					</div>
-					{{ end }} {{/* end if Feature_images*/}}
-					{{/* Filter posts with the "Kurs" tag and get the latest */}}
-					{{ $courses := where .Site.RegularPages "Params.tags" "in" (slice "Kurs") }}
-					{{ $latestCourse := first 1 (sort $courses "date") }}
-
+					{{ end }}
 					{{/* Display the newest course post */}}
-					{{ range $latestCourse }}
-					<article>
-						<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-						<p>{{ .Summary }}</p>
-						<p><small>Published on {{ .Date.Format "January 2, 2006" }}</small></p>
-					</article>
+					{{ $upcoming := where .Site.RegularPages "Section" "courses" }}
+					{{ $upcoming = where $upcoming "Date" "ge" now }}
+					{{ $upcoming = $upcoming.ByDate }}
+					{{ with $upcoming.First }}
+					<div class="next-course">
+						<h2>Next Upcoming Course</h2>
+						<div class="course-details">
+							<h3>{{ .Title }}</h3>
+							<time>{{ .Date.Format "January 2, 2006" }}</time>
+							{{ with .Params.description }}
+							<p>{{ . }}</p>
+							{{ end }}
+							<a href="{{ .RelPermalink }}" class="read-more">Learn More</a>
+						</div>
+					</div>
 					{{ end }}
 				</section>
 
