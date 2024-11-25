@@ -4,7 +4,7 @@ draft: false
 ---
 ## Echte Kamille – Marticaria recutitia
 
-{{< figure-with-text image="https://fuehldienatur.github.io/FuehlDieNatur/img/Phyto_Kamille.jpg" alt="Echte Kamille" width="60%" caption="Echte Kamille">}}
+{{< figure-with-text image="https://fuehldienatur.github.io/FuehlDieNatur/img/Phyto_Kamille.jpg" alt="Echte Kamille" width="45%" caption="Echte Kamille">}}
 Die mütterliche Heilerin.
 <br>
 Sie hat eine beruhigende Wirkung auf Körper, Geist & Seele.

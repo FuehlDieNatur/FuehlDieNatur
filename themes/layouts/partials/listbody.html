@@ -10,13 +10,6 @@
           {{ with .Params.subtitle }} | {{ . | markdownify }} | {{ end }}
           {{ with .Params.passage }} | {{ . | markdownify }} | {{ end }}
           <time class="date-meta">{{ .Date.Format "Jan 2, 2006" }}</time>
-          <br>
-          {{ .Summary | plainify | safeHTML }}
-          {{ if .Truncated }}
-            <a class="button small alt" href="{{ .Permalink }}" >
-                Read more<i class="fas fa-angle-double-right"></i>
-            </a>
-          {{ end }}
         </div>
         <div class="col-6 col-12-mobilep">
           <span class="image fit">
@@ -30,13 +23,6 @@
       <div>
         <a href="{{ .Permalink }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
         <time class="date-meta">({{ .Date.Format "Jan 2, 2006" }})</time>
-        <br>
-        {{ .Summary | plainify | safeHTML }}
-        {{ if .Truncated }}
-          <a class="button small alt" href="{{ .Permalink }}" >
-              Read more<i class="fas fa-angle-double-right"></i>
-          </a>
-        {{ end }}
       </div>
     {{ end }}
     {{ if lt (add $index 1) $len }}
