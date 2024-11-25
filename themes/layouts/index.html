@@ -73,19 +73,22 @@
 					{{/* Display the newest course post */}}
 					{{ $upcoming := where .Site.RegularPages "Section" "courses" }}
 					{{ $upcoming = where $upcoming "Date" "ge" now }}
-					{{ $upcoming = $upcoming.ByDate }}
-					{{ with $upcoming.First }}
+					{{ if gt (len $upcoming) 0 }}
+					{{ with index $upcoming 0 }}
 					<div class="next-course">
-						<h2>Next Upcoming Course</h2>
+						<h2>Nächster Kurs:</h2>
 						<div class="course-details">
-							<h3>{{ .Title }}</h3>
-							<time>{{ .Date.Format "January 2, 2006" }}</time>
-							{{ with .Params.description }}
-							<p>{{ . }}</p>
-							{{ end }}
-							<a href="{{ .RelPermalink }}" class="read-more">Learn More</a>
+						<h3>{{ .Title }}</h3>
+						<time>{{ .Date.Format "January 2, 2006" }}</time>
+						{{ with .Params.description }}
+						<p>{{ . }}</p>
+						{{ end }}
+						<a href="{{ .RelPermalink }}" class="read-more">Learn More</a>
 						</div>
 					</div>
+					{{ end }}
+					{{ else }}
+					<p>Aktuell keine kommenden Kurse. Bitte schau später nochmal nach!</p>
 					{{ end }}
 				</section>
 

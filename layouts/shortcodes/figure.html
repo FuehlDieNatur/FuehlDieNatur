@@ -1,0 +1,12 @@
+{{ $image := .Get "image" }}
+{{ $width := .Get "width" | default "auto" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $caption := .Get "caption" | default "" }}
+{{ $class := .Get "class" | default "" }}
+
+<figure class="content-figure {{ $class }}" style="width: {{ $width }}">
+  <img src="{{ $image }}" alt="{{ $alt }}" />
+  {{ with $caption }}
+  <figcaption>{{ . }}</figcaption>
+  {{ end }}
+</figure> 

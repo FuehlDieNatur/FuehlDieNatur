@@ -1,0 +1,45 @@
+{{ $image := .Get "image" }}
+{{ $position := .Get "position" | default "left" }}
+{{ $width := .Get "width" | default "300px" }}
+{{ $height := .Get "height" | default "auto" }}
+{{ $fit := .Get "fit" | default "cover" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $caption := .Get "caption" | default "" }}
+
+<div class="image-text-wrapper {{ $position }}">
+  <figure class="content-figure" style="width: {{ $width }}; height: {{ $height }};">
+    <div class="image-container" style="width: {{ $width }}; height: {{ $height }};">
+      <img src="{{ $image }}" 
+           alt="{{ $alt }}" 
+           style="object-fit: {{ $fit }};" />
+    </div>
+    {{ with $caption }}
+    <figcaption>{{ . }}</figcaption>
+    {{ end }}
+  </figure>
+  <div class="content-text">
+    {{ .Inner | markdownify }}
+  </div>
+</div> 
+
+
+<!--
+
+Left aligned image:
+{{</* figure-with-text image="/images/example.jpg" alt="Example image" width="300px" caption="Optional caption" */>}}
+This is the text that will appear next to the image. You can write multiple paragraphs and use **markdown** formatting.
+
+- You can even use lists
+- And other markdown elements
+{{</* /figure-with-text */>}}
+
+Right aligned image:
+{{</* figure-with-text image="/images/example.jpg" position="right" alt="Example image" */>}}
+This text will appear on the left side of the image.
+{{</* /figure-with-text */>}}
+
+Center aligned image:
+{{</* figure-with-text image="/images/example.jpg" position="center" alt="Example image" width="500px" */>}}
+This text will appear below the centered image.
+{{</* /figure-with-text */>}}
+-->
