@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Fuehl die Natur"
 theme = "themes"
 themesDir = "."
+buildFuture = true
 
 rssLimit = 5
 paginate = 10
