@@ -4,7 +4,9 @@ draft: false
 ---
 Wer bin Ich? Aufgewachsen etwas außerhalb auf einem Bauernhof, umgeben von Wäldern und Wiesen mit Verantwortung und Liebe für die Natur und unsere Tiere
 <div class="image-container">
-  <img src="https://fuehldienatur.github.io/FuehlDieNatur/img/head.jpg" alt="Daniela" class="round-image">
+  <div class="round-img">
+    <img src="https://fuehldienatur.github.io/FuehlDieNatur/img/head.jpg" alt="Daniela" class="round-image">
+  </div>
 </div>
 Die natürlichen Kreisläufe der Jahreszeiten durfte ich von Kindesbeinen an erleben, spüren, fühlen. Für mich war schon immer klar, jedes Wesen egal ob Mensch, Tier oder Pflanze hat seinen eigenen Charakter, seine Gaben, seinen Platz und Aufgabe in unserem Dasein.
 Selbstverständlich wie früher gehört dies nicht mehr zu unserer Kultur. <br>Wir geben uns und unseren Kindern oft nicht mehr den Raum und die Möglichkeiten dafür.

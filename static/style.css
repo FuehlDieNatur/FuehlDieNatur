@@ -86,20 +86,26 @@ head {
 /* Media query for responsive scaling */
 @media screen and (min-width: 600px) {
   .round-image {
-    width: 150px !important; /* Larger size for bigger screens */
-    height: 150px !important; /* Larger size for bigger screens */
+    width: 200px !important; /* Even larger size for very large screens */
+    height: 200px !important; /* Even larger size for very large screens */
     object-fit: cover;
-    object-position: 25px center;
+    object-position: center 15px;
   }
 }
 
 @media screen and (min-width: 900px) {
   .round-image {
-    width: 200px !important; /* Even larger size for very large screens */
-    height: 200px !important; /* Even larger size for very large screens */
+    width: 250px !important; /* Even larger size for very large screens */
+    height: 250px !important; /* Even larger size for very large screens */
     object-fit: cover;
-    object-position: 50px center;
+    object-position: center 15px;
   }
+}
+.round-img {
+  display: block;
+  width: 200px !important; /* Even larger size for very large screens */
+  height: 200px !important; /* Even larger size for very large screens */
+  border-radius: 50%;
 }
 
 .crop {
