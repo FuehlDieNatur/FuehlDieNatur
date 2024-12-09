@@ -86,26 +86,31 @@ head {
 /* Media query for responsive scaling */
 @media screen and (min-width: 600px) {
   .round-image {
-    width: 200px !important; /* Even larger size for very large screens */
-    height: 200px !important; /* Even larger size for very large screens */
-    object-fit: cover;
-    object-position: center 15px;
+    position: absolute;
+    width: 100%; /* Ensure the image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    top: 20%; /* Adjust this value to move the image downward */
+    left: 0;
+    transform: translateY(-20%); /* Fine-tune to align the image */
   }
 }
 
 @media screen and (min-width: 900px) {
   .round-image {
-    width: 250px !important; /* Even larger size for very large screens */
-    height: 250px !important; /* Even larger size for very large screens */
-    object-fit: cover;
-    object-position: center 15px;
+    position: absolute;
+    width: 100%; /* Ensure the image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    top: 20%; /* Adjust this value to move the image downward */
+    left: 0;
+    transform: translateY(-20%); /* Fine-tune to align the image */
   }
 }
 .round-img {
-  display: block;
-  width: 200px !important; /* Even larger size for very large screens */
-  height: 200px !important; /* Even larger size for very large screens */
-  border-radius: 50%;
+  width: 200px; /* Adjust the size as needed */
+  height: 200px; /* Make it a square */
+  overflow: hidden; /* Ensure the circular shape cuts off overflow */
+  border-radius: 50%; /* Makes the shape circular */
+  position: relative;
 }
 
 .crop {
