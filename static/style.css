@@ -126,6 +126,14 @@ img.crop-center{
   object-position: 25px center;
 }
 
+.bg {
+  z-index: 0;
+  width: 100vw;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
 #crop {
   width: 100%;
   height: 150px;

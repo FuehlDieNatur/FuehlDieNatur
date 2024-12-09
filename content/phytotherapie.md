@@ -3,7 +3,7 @@ title: "Phytotherapie - Die moderne Heilpflanzenkunde"
 draft: false
 ---
 ## Echte Kamille – Marticaria recutitia
-
+<img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/PhytoBG.jpg" />
 {{< figure-with-text image="https://fuehldienatur.github.io/FuehlDieNatur/img/Phyto_Kamille.jpg" alt="Echte Kamille" width="45%" caption="Echte Kamille">}}
 Die mütterliche Heilerin.
 <br>
