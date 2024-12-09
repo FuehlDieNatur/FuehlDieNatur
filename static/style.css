@@ -87,9 +87,9 @@ head {
 @media screen and (min-width: 600px) {
   .round-image {
     position: absolute;
-    width: 100%; /* Ensure the image fills the container */
-    height: auto; /* Maintain aspect ratio */
-    top: 20%; /* Adjust this value to move the image downward */
+    width: 250px !important; /* Ensure the image fills the container */
+    height: 250px !important; /* Maintain aspect ratio */
+    top: 15%; /* Adjust this value to move the image downward */
     left: 0;
     transform: translateY(-20%); /* Fine-tune to align the image */
   }
@@ -98,9 +98,9 @@ head {
 @media screen and (min-width: 900px) {
   .round-image {
     position: absolute;
-    width: 100%; /* Ensure the image fills the container */
-    height: auto; /* Maintain aspect ratio */
-    top: 20%; /* Adjust this value to move the image downward */
+    width: 300px !important; /* Ensure the image fills the container */
+    height: 300px !important; /* Maintain aspect ratio */
+    top: 15%; /* Adjust this value to move the image downward */
     left: 0;
     transform: translateY(-20%); /* Fine-tune to align the image */
   }
