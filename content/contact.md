@@ -4,6 +4,7 @@ tags: ""
 draft: false
 ---
 ## Kontakt
+<img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/PhytoBG.jpg" />
 <form id="contact-form">
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required>

@@ -3,7 +3,7 @@ title: "Services & Qualifikationen"
 draft: false
 ---
 ## Services & Qualifikationen
-
+<img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Brennessel.jpg" />
 #### Was kann ich euch anbieten:
 
 * Heilpflanzenwanderungen
