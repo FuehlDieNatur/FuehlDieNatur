@@ -21,7 +21,7 @@ Gerne auch bei mir Anfragen, wenn Euch ein Etwas auf dem Herzen liegt. Ziel alle
 * 2023 - 2026 Weiterbildung Phytotherapie Fachfortbildung (Themen u.a. Blütenessenzen, Gemmotherapie für Kinder, TCM mit europäischen Heilpflanzen, Vertiefung der Gebiete Frauennaturheilkunde, ZNS, Herz-Kreislauf, Gelenke und Haut)
 * 2024 - 2025 Weiterbildung zur Wildnispädagogin (1-jährig Kojote Akademie Buchenbach)
 
-{{< figure-with-text image="https://fuehldienatur.github.io/FuehlDieNatur/img/LogoPhytopraktikerin.png" width="auto" alt="Logo Phytopraktikerin" position="center" height="50px" fit="cover" />}}
+{{< figure-with-text image="https://fuehldienatur.github.io/FuehlDieNatur/img/LogoPhytopraktikerin.png" width="auto" alt="Logo Phytopraktikerin" position="left" height="50px" fit="cover" />}}
 
 
 
