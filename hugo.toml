@@ -38,7 +38,7 @@ enableInlineShortcodes = true
 
   [[menu.main]]
     name = "Kurse"
-    url = "/courses"
+    url = "/Kurse"
     weight = 3
 
   [[menu.main]]
