@@ -51,3 +51,9 @@ head {
   text-decoration: none;
   border-radius: 4px;
 }
+
+span.rev { unicode-bidi:bidi-override; direction:rtl }
+span.rev.email:before { content:"ed.rutaneid" }
+span.rev.email:after { content:"@aleinad :liam-E" }
+span.rev.phone:before { content:"0658015" }
+span.rev.phone:after { content:" 12670 :nofeleT" }

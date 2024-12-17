@@ -3,8 +3,9 @@ title: "Services & Qualifikationen"
 draft: false
 ---
 ## Services & Qualifikationen
-<img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Brennessel.jpg" />
-#### Was kann ich euch anbieten:
+<img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Brennessel.jpg" width="100%"/>
+
+### Was kann ich euch anbieten:
 
 * Heilpflanzenwanderungen
 * Kennen- und Anwendenlernen deiner persönlichen Heilpflanzen in deinem heimischen Garten
@@ -14,14 +15,14 @@ draft: false
 
 Gerne auch bei mir Anfragen, wenn Euch ein Etwas auf dem Herzen liegt. Ziel aller Angebote ist es, das Anleiten für das eigene Tun zu Hause, Skripte gibt es jeweils passend zum Thema.
 
-#### Qualifikationen:
+### Qualifikationen:
 
 * 1997 Ausbildung zu chemisch-technischen Assistentin (Stuttgart)
 * 2021 & 2022 Ausbildung zur Phytopraktikerin mit Abschluss (Freiburger Heilpflanzenschule), es folgten Seminare in Gemmotherapie (Knospenheilmittel) und Hochsensibilität
 * 2023 - 2026 Weiterbildung Phytotherapie Fachfortbildung (Themen u.a. Blütenessenzen, Gemmotherapie für Kinder, TCM mit europäischen Heilpflanzen, Vertiefung der Gebiete Frauennaturheilkunde, ZNS, Herz-Kreislauf, Gelenke und Haut)
 * 2024 - 2025 Weiterbildung zur Wildnispädagogin (1-jährig Kojote Akademie Buchenbach)
 
-{{< figure-with-text image="https://fuehldienatur.github.io/FuehlDieNatur/img/LogoPhytopraktikerin.png" width="auto" alt="Logo Phytopraktikerin" position="right" height="50px" fit="cover" />}}
+{{< figure-with-text image="https://fuehldienatur.github.io/FuehlDieNatur/img/LogoPhytopraktikerin.png" width="auto" alt="Logo Phytopraktikerin" position="right" height="75px" fit="cover" />}}
 
 
 
