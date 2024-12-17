@@ -219,6 +219,12 @@ img.crop-center{
   }
 }
 
+#main>header h2 {
+  color: #fff;
+  font-size: 2.75em;
+  margin: 0;
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
