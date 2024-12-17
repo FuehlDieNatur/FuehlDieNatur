@@ -5,7 +5,7 @@ draft: false
 
 <img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Zelt.jpg" />
 
-{{ <carousel/> }}
+{{ <carousel> }}{{ </carousel> }}
 
 #
 Wildnispädagogik bringt Menschen durch praktisches Erleben und Erfahren in die Verbindung zur Natur.
