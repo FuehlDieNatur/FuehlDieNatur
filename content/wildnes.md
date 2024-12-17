@@ -13,7 +13,7 @@ Ganzheitlich wird mit dem Wissen über altes Handwerk, Tier- und Pflanzenkunde, 
 Über die Arbeit in Gruppen wird die Solidarität, die Wertschätzung und das Gemeinschaftsgefühl gefördert.
 Das Vertrauen in und zur Natur wird gestärkt, jeder kann seine Passion und seinen Wohlfühlort kennenlernen.
 Grenzen der Komfortzone können begleitet verlassen werden und bieten damit die Chance eigene, bisher unbekannte Fähigkeiten zu entdecken.
-{{< figure-with-text image="https://fuehldienatur.github.io/FuehlDieNatur/img/Wildnispädagogik_Website_2.jpg" alt="Echte Kamille" width="45%" caption="Echte Kamille">}}
+{{< figure-with-text image="https://fuehldienatur.github.io/FuehlDieNatur/img/Wildnispädagogik_Website_2.jpg" alt="Am Feuer" caption="">}}
 Die Wildnispädagogik fördert durch ihre Lehren den nachhaltigen Umgang mit unserer Natur und Gesellschaft, für Erwachsene und Kinder.
 Die Wahrnehmung und das Bewusstsein für sich selbst wird geschult, denn auch die Natur spiegelt uns selbst wider. Innere Konflikte können gelöst werden und Persönlichkeiten wachsen.<br><br>
 Praktische Hilfsmittel sind hier:<br>
