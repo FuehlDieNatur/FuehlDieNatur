@@ -131,7 +131,7 @@ img.crop-center{
   width: 100vw;
   height: auto;
   position: absolute;
-  top: 0px;
+  top: -50vw;
   left: 0px;
 }
 
