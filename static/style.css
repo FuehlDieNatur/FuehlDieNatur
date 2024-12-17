@@ -126,23 +126,29 @@ img.crop-center{
   object-position: 25px center;
 }
 
-.bg {
-  z-index: -1;
-  width: 100vw;
-  height: auto;
+.bg_container {
+  overflow: hidden;
   position: absolute;
   top: -35vw;
   left: 0px;
 }
 
+.bg {
+  z-index: -3;
+  width: 100vw;
+  height: auto;
+  position: relative;
+  
+}
+
 div.bg {
   z-index: -1;
   width: 100vw;
-  position: absolute;
-  top: -35vw;
-  left: 0px;
+  margin-bottom: -10000px;
+  padding-bottom: 10000px;
+  position: relative;
   opacity: 0.5;
-  background-color: #555;
+  background-color: #000;
 }
 
 #crop {

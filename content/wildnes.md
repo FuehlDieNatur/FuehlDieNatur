@@ -2,8 +2,11 @@
 title: "Wildnispädagogik - Was ist das?"
 draft: false
 ---
-<div class="bg">
+
+<div class="bg_container>
     <img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Zelt.jpg" />
+    <div class="bg">
+    </div>
 </div>
 #
 Wildnispädagogik bringt Menschen durch praktisches Erleben und Erfahren in die Verbindung zur Natur.
