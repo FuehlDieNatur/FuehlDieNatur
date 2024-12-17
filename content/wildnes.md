@@ -4,6 +4,9 @@ draft: false
 ---
 #
 <img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Zelt.jpg" />
+
+{{ <carousel/> }}
+
 Wildnispädagogik bringt Menschen durch praktisches Erleben und Erfahren in die Verbindung zur Natur.
 Ganzheitlich wird mit dem Wissen über altes Handwerk, Tier- und Pflanzenkunde, Fährten- und Verhaltenlesen, sowie Survival gelehrt.
 Über die Arbeit in Gruppen wird die Solidarität, die Wertschätzung und das Gemeinschaftsgefühl gefördert.
