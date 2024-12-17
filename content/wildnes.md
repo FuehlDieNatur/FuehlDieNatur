@@ -2,9 +2,9 @@
 title: "Wildnispädagogik - Was ist das?"
 draft: false
 ---
-
-<img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Zelt.jpg" />
-
+<div class="bg">
+    <img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Zelt.jpg" />
+</div>
 #
 Wildnispädagogik bringt Menschen durch praktisches Erleben und Erfahren in die Verbindung zur Natur.
 Ganzheitlich wird mit dem Wissen über altes Handwerk, Tier- und Pflanzenkunde, Fährten- und Verhaltenlesen, sowie Survival gelehrt.
