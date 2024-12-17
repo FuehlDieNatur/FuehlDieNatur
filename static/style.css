@@ -224,7 +224,9 @@ img.crop-center{
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-  position: relative;
+  display: flex;
+  justify-content: center; /* Centers the image horizontally */
+  align-items: center; /* Centers the image vertically if container has a fixed height */
   margin: auto;
 }
 

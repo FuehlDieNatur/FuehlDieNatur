@@ -5,8 +5,6 @@ draft: false
 
 <img class="bg" src="https://fuehldienatur.github.io/FuehlDieNatur/img/Zelt.jpg" />
 
-{{<carousel>}}
-
 #
 Wildnispädagogik bringt Menschen durch praktisches Erleben und Erfahren in die Verbindung zur Natur.
 Ganzheitlich wird mit dem Wissen über altes Handwerk, Tier- und Pflanzenkunde, Fährten- und Verhaltenlesen, sowie Survival gelehrt.
@@ -22,3 +20,6 @@ Ich selbst wurde in den Lehren des Coyote Teaching unterrichtet.
 {{</ figure-with-text>}}
 Der Unterschied zur klassischen Wildnispädagogik liegt darin, dass im Coyote Teaching der Schwerpunkt auf Selbsterfahrung, anstatt auf reines Lernen gelegt wird. Was das Lernen individueller für jeden Einzelnen anpasst.
 Coyote Teaching geht auf die Lehren des amerikanischen Ureinwohners Stalking Wolf und seinen Schüler Tom Brow Jr. zurück. Es ist geprägt von der Art, wie sich das Leben in einem Stamm abspielt, hier haben Handlungen und nicht Worte eine große Bedeutung. Der Lehrer wird zum Lehrer durch seine Erfahrung und Vorbildfunktion.
+
+### Impressionen der Wildnispädagogik:
+{{<carousel>}}
